@@ -9,4 +9,9 @@ const BlogPage = () => {
     </div>;
 };
 
+export const metadata = {
+  title: 'To-Do Blogs',
+  description: 'Blogs for To-Do App',
+}
+
 export default BlogPage;
